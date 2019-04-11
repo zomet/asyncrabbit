@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="asyncrabbit" />
+        <module name="async-rabbit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="asyncrabbit" target="1.8" />
+      <module name="async-rabbit" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

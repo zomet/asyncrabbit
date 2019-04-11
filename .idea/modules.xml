@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/asyncrabbit.iml" filepath="$PROJECT_DIR$/asyncrabbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/async-rabbit.iml" filepath="$PROJECT_DIR$/async-rabbit.iml" />
     </modules>
   </component>
 </project>
