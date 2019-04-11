@@ -1,0 +1,9 @@
+rabbitmq:
+  topic:
+    name: async-topic
+  queue:
+    name: async-queue
+spring:
+  rabbitmq:
+    template:
+      routing-key: routing-key
